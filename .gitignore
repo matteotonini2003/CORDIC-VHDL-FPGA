@@ -1,0 +1,75 @@
+# Vivado generated files
+
+.Xil/
+*.jou
+*.log
+*.str
+*.tmp
+*.backup*
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.gen/
+*.ip_user_files/
+*.xpr
+*.dcp
+*.bit
+*.ltx
+*.rpt
+*.pb
+*.wdb
+*.xml
+
+# ModelSim generated files
+
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.do.bak
+modelsim.ini
+
+# LaTeX generated files
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+
+# Python cache files
+
+**pycache**/
+*.pyc
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Editor files
+
+.vscode/
+.idea/
+*.swp
+*.swo
