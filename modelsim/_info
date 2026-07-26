@@ -1,0 +1,390 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/CORDIC/modelsim
+Eatan_lut
+Z1 w1781799101
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 5
+R0
+Z5 8C:\CORDIC\src\atan_lut.vhd
+Z6 FC:\CORDIC\src\atan_lut.vhd
+l0
+L5 1
+VGS>gnQz3_T:0@Ld509Aim1
+!s100 WeP]UUY[3E1:oS0@d0noG2
+Z7 OV;C;2020.1;71
+33
+Z8 !s110 1782037194
+!i10b 1
+Z9 !s108 1782037194.000000
+Z10 !s90 -2008|C:\CORDIC\src\atan_lut.vhd|
+Z11 !s107 C:\CORDIC\src\atan_lut.vhd|
+!i113 1
+Z12 o-2008
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 8 atan_lut 0 22 GS>gnQz3_T:0@Ld509Aim1
+!i122 5
+l13
+L12 27
+VbNBfI9Ene33nVX2Nb0FKH2
+!s100 HWUKd[I]J7iNSa<RZQ1FZ3
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecordic
+Z14 w1781946586
+R2
+R3
+R4
+!i122 6
+R0
+Z15 8C:\CORDIC\src\CORDIC.vhd
+Z16 FC:\CORDIC\src\CORDIC.vhd
+l0
+L5 1
+VdUH9CO9Z1m3@eU3Q<1H3e3
+!s100 4<Dch]VPj5J=>O>=FlhB_3
+R7
+33
+R8
+!i10b 1
+R9
+Z17 !s90 -2008|C:\CORDIC\src\CORDIC.vhd|
+Z18 !s107 C:\CORDIC\src\CORDIC.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 6 cordic 0 22 dUH9CO9Z1m3@eU3Q<1H3e3
+!i122 6
+l219
+L30 412
+VB@O0:Z@hmKVi20=7SegfP2
+!s100 RmDVI52UXdJK[]f68S>md1
+R7
+33
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ecordic_tb
+Z19 w1781887723
+R2
+R3
+R4
+!i122 8
+R0
+Z20 8C:\CORDIC\tb\CORDIC_tb.vhd
+Z21 FC:\CORDIC\tb\CORDIC_tb.vhd
+l0
+L5 1
+V6ADc4>`Y5c>H[iD:iAQ6K3
+!s100 SUz`?28<5DOBj3?Mf927;2
+R7
+33
+R8
+!i10b 1
+R9
+Z22 !s90 -2008|C:\CORDIC\tb\CORDIC_tb.vhd|
+!s107 C:\CORDIC\tb\CORDIC_tb.vhd|
+!i113 1
+R12
+R13
+Abeh
+R2
+R3
+R4
+DEx4 work 9 cordic_tb 0 22 6ADc4>`Y5c>H[iD:iAQ6K3
+!i122 8
+l59
+L8 240
+VGLLaQ9BmRUAIh[953jWbH1
+!s100 ;Y=0^h;XKIW^fM1d@WdoV0
+R7
+33
+R8
+!i10b 1
+R9
+R22
+Z23 !s107 C:\CORDIC\tb\CORDIC_tb.vhd|
+!i113 1
+R12
+R13
+Ecordic_wrapper
+Z24 w1781949443
+R2
+R3
+R4
+!i122 7
+R0
+Z25 8C:\CORDIC\src\CORDIC_WRAPPER.vhd
+Z26 FC:\CORDIC\src\CORDIC_WRAPPER.vhd
+l0
+L5 1
+VicCU8IRK=j]=CH7Q;^m;;2
+!s100 9:U81f?>kMa6^OaHXJ4SG1
+R7
+33
+R8
+!i10b 1
+R9
+Z27 !s90 -2008|C:\CORDIC\src\CORDIC_WRAPPER.vhd|
+Z28 !s107 C:\CORDIC\src\CORDIC_WRAPPER.vhd|
+!i113 1
+R12
+R13
+Astructural
+R2
+R3
+R4
+DEx4 work 14 cordic_wrapper 0 22 icCU8IRK=j]=CH7Q;^m;;2
+!i122 7
+l84
+L25 210
+V;;]9oTOQ6O@^[h36co3?43
+!s100 DiHndMS__?G0cLe:2>a@F1
+R7
+33
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Ecounter
+Z29 w1781877380
+R3
+R4
+!i122 4
+R0
+Z30 8C:\CORDIC\src\Counter.vhd
+Z31 FC:\CORDIC\src\Counter.vhd
+l0
+L4 1
+VZ2gikFAjB3eSf9c;UDNgO2
+!s100 d41Yz>AAKMHXOLSiNmck31
+R7
+33
+R8
+!i10b 1
+R9
+Z32 !s90 -2008|C:\CORDIC\src\Counter.vhd|
+Z33 !s107 C:\CORDIC\src\Counter.vhd|
+!i113 1
+R12
+R13
+Astruct
+R3
+R4
+DEx4 work 7 counter 0 22 Z2gikFAjB3eSf9c;UDNgO2
+!i122 4
+l58
+L18 66
+Vmn`0bBomK[ilXU>0kD]>53
+!s100 _z2N01N1Lfj2XGczzUbIM2
+R7
+33
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
+Edff_n
+Z34 w1781793681
+R3
+R4
+!i122 2
+R0
+Z35 8C:\CORDIC\src\DFF_N.vhd
+Z36 FC:\CORDIC\src\DFF_N.vhd
+l0
+L4 1
+VV>TJIEGMV070B:IlfanKl2
+!s100 kD;N5k@7f5h<W2OAObA<P2
+R7
+33
+R8
+!i10b 1
+R9
+Z37 !s90 -2008|C:\CORDIC\src\DFF_N.vhd|
+Z38 !s107 C:\CORDIC\src\DFF_N.vhd|
+!i113 1
+R12
+R13
+Astruct
+R3
+R4
+DEx4 work 5 dff_n 0 22 V>TJIEGMV070B:IlfanKl2
+!i122 2
+l18
+L17 14
+VXXFbn6Z>?MES1OonmlnL;0
+!s100 G_RzQLJmJFY?Al7ZzzN?J3
+R7
+33
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Edff_n_signed
+Z39 w1781882410
+R2
+R3
+R4
+!i122 3
+R0
+Z40 8C:\CORDIC\src\DFF_N_Signed.vhd
+Z41 FC:\CORDIC\src\DFF_N_Signed.vhd
+l0
+L5 1
+VYd4Q7=cHoEjJmL4VhL23c2
+!s100 Z>DI4^8[j=DEERZ<2zgPd1
+R7
+33
+R8
+!i10b 1
+R9
+Z42 !s90 -2008|C:\CORDIC\src\DFF_N_Signed.vhd|
+Z43 !s107 C:\CORDIC\src\DFF_N_Signed.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 12 dff_n_signed 0 22 Yd4Q7=cHoEjJmL4VhL23c2
+!i122 3
+l19
+L18 16
+Vf=@Q]072Y;Qmg6f;=g9bM1
+!s100 cBM9iN5abgmgz7e<S_:]:3
+R7
+33
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+Efull_adder
+Z44 w1781708166
+R3
+R4
+!i122 0
+R0
+Z45 8C:\CORDIC\src\full_adder.vhd
+Z46 FC:\CORDIC\src\full_adder.vhd
+l0
+L4 1
+VaG9IRVjiNU9OF79Dn4<F@1
+!s100 ]6aSe`f5Y6US@n:?L_zXD2
+R7
+33
+Z47 !s110 1782037193
+!i10b 1
+Z48 !s108 1782037193.000000
+Z49 !s90 -2008|C:\CORDIC\src\full_adder.vhd|
+Z50 !s107 C:\CORDIC\src\full_adder.vhd|
+!i113 1
+R12
+R13
+Abeh
+R3
+R4
+DEx4 work 10 full_adder 0 22 aG9IRVjiNU9OF79Dn4<F@1
+!i122 0
+l15
+L14 7
+V7H:LTn>^A6NBS9a2k:2^F2
+!s100 6T8=fA[lK`ci9kO7a6MVf2
+R7
+33
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R12
+R13
+Eripple_carry_adder
+R44
+R3
+R4
+!i122 1
+R0
+Z51 8C:\CORDIC\src\ripple_carry_adder.vhd
+Z52 FC:\CORDIC\src\ripple_carry_adder.vhd
+l0
+L4 1
+V=3:c2Oi:ezh:W@]QLCma91
+!s100 13YQ?QVkTiA?l29<D8>@;1
+R7
+33
+R47
+!i10b 1
+R48
+Z53 !s90 -2008|C:\CORDIC\src\ripple_carry_adder.vhd|
+Z54 !s107 C:\CORDIC\src\ripple_carry_adder.vhd|
+!i113 1
+R12
+R13
+Abeh
+R3
+R4
+DEx4 work 18 ripple_carry_adder 0 22 =3:c2Oi:ezh:W@]QLCma91
+!i122 1
+l29
+L15 45
+VBzaOheeU;]mY5QfLP:iH^0
+!s100 ZC?8Ph144Fe`Pmk?c4DcH1
+R7
+33
+R47
+!i10b 1
+R48
+R53
+R54
+!i113 1
+R12
+R13
