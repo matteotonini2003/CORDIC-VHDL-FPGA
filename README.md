@@ -94,7 +94,7 @@ This folder contains the Python script used to generate the arctangent lookup ta
 
 ### `doc/`
 
-This folder contains the final project report and documentation files.
+This folder contains the final project report and documentation files. The report is written in Italian.
 
 ## Fixed-point formats
 
